@@ -5,7 +5,7 @@
 
 - Discord: https://discord.angelillo15.es
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Angelillo15=anuraghazra&theme=nightowl&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angelillo15&theme=nightowl&show_icons=true)
 
 Now im listening:
 
