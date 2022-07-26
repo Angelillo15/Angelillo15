@@ -6,7 +6,7 @@
 
 - Discord: https://discord.angelillo15.es
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angelillo15&theme=nightowl&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Angelillo15&theme=nightowl&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelillo15&layout=compact&theme=nightowl)](https://angelillo15.es)
 
