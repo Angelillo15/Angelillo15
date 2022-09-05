@@ -10,6 +10,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelillo15&layout=compact&theme=nightowl)](https://angelillo15.es)
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+
 
 Now im listening:
 
