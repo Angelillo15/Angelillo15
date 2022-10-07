@@ -6,7 +6,7 @@
 
 - Discord: https://discord.angelillo15.es
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Angelillo15&theme=nightowl&show_icons=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angelillo15&theme=radical&hide_border=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelillo15&layout=compact&theme=nightowl)](https://angelillo15.es)
 
