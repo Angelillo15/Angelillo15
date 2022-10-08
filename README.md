@@ -1,7 +1,5 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Angelillo15&text2=Java%20developer&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-
 - 👋 Hi, I’m @Angelillo15
-- 🥔 I’m 14 years old (For many peaple very young)
+- 🥔 I’m 14 years old (For many people very young)
 - 👀 I’m interested in Minecraft spigot plugin development
 
 - Discord: https://discord.angelillo15.es
