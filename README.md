@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Angelillo15
-- 🥔 I’m 14 years old (For many people very young)
-- 👀 I’m interested in Minecraft spigot plugin development
+- 👀 I’m interested in Minecraft spigot & bungee plugin development
 
 - Discord: https://discord.angelillo15.es
 
