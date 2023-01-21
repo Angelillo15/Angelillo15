@@ -7,6 +7,7 @@
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Angelillo15&theme=radical&hide_border=true)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angelillo15&layout=compact&langs_count=7&theme=radical)
 
 ![](https://komarev.com/ghpvc/?username=Angelillo15&color=blueviolet)
 
