@@ -12,7 +12,7 @@
 ![](https://komarev.com/ghpvc/?username=Angelillo15&color=blueviolet)
 
 
-Now im listening:
+Do you like what I hear 🎶?
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=angelmg5555&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=angelmg5555&redirect=true)
 
