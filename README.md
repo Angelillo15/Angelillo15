@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @Angelillo15<br>👀 I’m interested in Minecraft paper & velocity plugin development<br>🌐 Also interested in full stack web-development<br>🛠️ Join my [discord](https://discord.angelillo15.es) server</p>
+<p align="left">👋 Hi, I’m @Angelillo15<br>👀 I’m interested in Minecraft paper & velocity plugin development<br>🌐 Also interested in full stack web-development<br>🛠️ Join my <a href="discord.angelillo15.es">discord</a> server</p>
 
 ###
 
