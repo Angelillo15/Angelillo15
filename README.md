@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">👋 Hi, I’m @Angelillo15<br>👀 I’m interested in Minecraft paper & velocity plugin development<br>🌐 Also interested in full stack web-development<br>🛠️ Join my <a href="discord.angelillo15.es">discord</a> server</p>
+<p align="left">👋 Hi, I’m @Angelillo15<br>👀 I’m a Minecraft paper & velocity plugin development<br>🌐 I'm also interested in full stack web-development<br>🛠️ Join my <a href="discord.angelillo15.es">discord</a> server</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Languages and tools</h2>
 
 ###
 
@@ -48,14 +48,14 @@
 
 <br clear="both">
 
-<h2 align="left">How about what I hear?</h2>
+<h2 align="left">Now listening to</h2>
 
 <br clear="both">
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=angelmg5555&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=angelmg5555&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" />
 </div>
 
-<h2 align="left">Statistics don't lie</h2>
+<h2 align="left">Profile Stats</h2>
 
 ###
 
