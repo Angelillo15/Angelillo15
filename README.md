@@ -11,7 +11,7 @@
 ###
 
 <p align="left">👋 Hi, I’m @Angelillo15<br>👀 I’m a Minecraft Paper & Velocity plugin developer<br>🌐 I'm also interested in full stack web-development<br>
-  Focus on low level development on Nintendo plataforms like Nintendo DS or GameCube <br>🛠️ Join my <a href="discord.angelillo15.es">discord</a> server</p>
+  🎮 Focus on low level development on Nintendo plataforms like Nintendo DS or GameCube <br>🛠️ Join my <a href="discord.angelillo15.es">discord</a> server</p>
 
 ###
 
