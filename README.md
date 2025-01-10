@@ -1,22 +1,17 @@
-<h1 align="left">Hey 👋</h1>
+<h1 align="center">Hi 👋, I'm Angelillo15</h1>
+<h3 align="center">A passionate software developer with expertise in a variety of technologies and programming languages. I love building innovative solutions and contributing to open-source projects.</h3>
 
-###
+## 🌐 About Nookure  
 
-<p align="left">My name is Ángel, I'm from Málaga, Spain</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">👋 Hi, I’m @Angelillo15<br>👀 I’m a Minecraft Paper & Velocity plugin developer<br>🌐 I'm also interested in full stack web-development<br>
-  🎮 Focus on low level development on Nintendo plataforms like Nintendo DS or GameCube <br>🛠️ Join my <a href="discord.angelillo15.es">discord</a> server</p>
-
-###
+I’m the leader of **Nookure**, an open-source organization dedicated to creating innovative software solutions.  
+- GitHub: [Nookure GitHub](https://github.com/Nookure)  
+- Website: [nookure.com](https://nookure.com)
 
 <h2 align="left">Languages and tools</h2>
 
+- **Languages:** Java, Kotlin, Rust, C, TypeScript  
+- **Frameworks:** React Router (Remix), GTK with libadwaita  
+- **Platforms:** Minecraft Plugin Development (Paper), Pterodactyl Panel, Nintendo embedded platforms, Linux system programming  
 ###
 
 <div align="left">
@@ -45,26 +40,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<h2 align="left">Now listening to</h2>
-
-<br clear="both">
-<div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=angelmg5555&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" />
-</div>
-
 <h2 align="left">Profile Stats</h2>
 
 ###
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Angelillo15&color=blueviolet" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=Angelillo15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Angelillo15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Angelillo15&color=blueviolet" />
 </div>
 
 ###
